@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "product_id": 1,
+        "name": "Camisa 1",
+        "precio": 25
+    },
+    {
+        "id": 2,
+        "product_id": 1,
+        "name": "Camisa 2",
+        "precio": 15
+    },
+    {
+        "id": 3,
+        "product_id": 2,
+        "name": "Pantalón 1",
+        "precio": 50
+    },
+    {
+        "id": 4,
+        "product_id": 3,
+        "name": "Sandalias",
+        "precio": 16
+    },
+    {
+        "id": 5,
+        "product_id": 4,
+        "name": "Botas",
+        "precio": 43
+    },
+    {
+        "id": 6,
+        "product_id": 4,
+        "name": "Tenis",
+        "precio": 55
+    },
+    {
+        "id": 7,
+        "product_id": 5,
+        "name": "Chromebook",
+        "precio": 180
+    }
+]

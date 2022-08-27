@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "category_id": 1,
+        "product_id": 1,
+        "model_id": 1,
+        "count": 10,
+        "price_sale": 250,
+        "date": "01/08/2022"
+    },
+    {
+        "id": 2,
+        "category_id": 1,
+        "product_id": 1,
+        "model_id": 2,
+        "count": 2,
+        "price_sale": 30,
+        "date": "01/15/2022"
+    },
+    {
+        "id": 3,
+        "category_id": 1,
+        "product_id": 2,
+        "model_id": 3,
+        "count": 10,
+        "price_sale": 500,
+        "date": "01/15/2022"
+    },
+    {
+        "id": 4,
+        "category_id": 2,
+        "product_id": 3,
+        "model_id": 4,
+        "count": 10,
+        "price_sale": 160,
+        "date": "02/09/2022"
+    },
+    {
+        "id": 5,
+        "category_id": 2,
+        "product_id": 4,
+        "model_id": 6,
+        "count": 3,
+        "price_sale": 165,
+        "date": "03/03/2022"
+    },
+    {
+        "id": 6,
+        "category_id": 3,
+        "product_id": 5,
+        "model_id": 7,
+        "count": 3,
+        "price_sale": 540,
+        "date": "03/12/2022"
+    },
+    {
+        "id": 7,
+        "category_id": 2,
+        "product_id": 4,
+        "model_id": 5,
+        "count": 5,
+        "price_sale": 215,
+        "date": "03/25/2022"
+    },
+    {
+        "id": 8,
+        "category_id": 1,
+        "product_id": 2,
+        "model_id": 3,
+        "count": 6,
+        "price_sale": 300,
+        "date": "04/07/2022"
+    },
+    {
+        "id": 9,
+        "category_id": 2,
+        "product_id": 4,
+        "model_id": 6,
+        "count": 4,
+        "price_sale": 220,
+        "date": "04/15/2022"
+    }
+]
